@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-23T22:29:39-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Kaili Brande",
+      "description": "Data Science Website\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-23T22:29:39-08:00"
+    },
+    {
+      "path": "kaili.html",
+      "title": "Kaili Brande",
+      "author": [],
+      "contents": "\r\n\r\n    \r\n    \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Kaili Brande\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            György Herzl is a filmmaker and computational storyteller based in Leipzig, Germany. Their work has been featured at the Festival do Rio, Internationale Filmfestspiele Berlin, Kunsthalle Basel, and the New Museum of Contemporary Art in New York City. “ГУМ” is their latest project which examines the rise of consumerism in post-Soviet republics.\r\n          \r\n          \r\n            \r\n                \r\n                  \r\n                    YouTube\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Vimeo\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n              \r\n                          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Kaili Brande\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            György Herzl is a filmmaker and computational storyteller based in Leipzig, Germany. Their work has been featured at the Festival do Rio, Internationale Filmfestspiele Berlin, Kunsthalle Basel, and the New Museum of Contemporary Art in New York City. “ГУМ” is their latest project which examines the rise of consumerism in post-Soviet republics.\r\n          \r\n        \r\n      \r\n      \r\n          \r\n              \r\n                                \r\n                    \r\n                    YouTube\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Vimeo\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Twitter\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Email\r\n                    \r\n                \r\n                              \r\n          \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-01-23T22:29:40-08:00"
+    }
+  ],
+  "collections": []
+}

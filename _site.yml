@@ -1,0 +1,14 @@
+name: "Kaili"
+title: "Kaili"
+description: |
+  mfeo
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Kaili"
+      href: kaili.html
+output: distill::distill_article
