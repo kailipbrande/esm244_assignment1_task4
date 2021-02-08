@@ -2,27 +2,26 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About Me",
+      "description": "My Research Interests",
+      "author": [],
+      "contents": "\r\nOak Ecology and Demography: I am interested in oak populations of the foothill ecosystems in California, and how drought and climate change plays a role in their longevity and mortality rates.\r\nOak Bark Allometry and Fire Adaptive Traits: I am intrigued to find out if oaks’ bark properties can serve as a protective mechanism against fire. With fire becoming increasingly normal (again) across California foothills, I hope to discover whether the species’ evolved traits can be considered fire adaptive (as a product of historic fire regime), or if they are instead very vulnerable to mortality risk from fire.\r\nFire Behavior: In order to understand the effects of fire on oak trees, we must first understand the “typical” range of fire behavior in foothill ecosystems, specifically grasslands (which are the most common understory habitat beneath oaks). We hope to quantify fire intensity, flame height, rate of spread, maximum temperature, and other variables, and relate them to burn severity and associated mortality risk for the oaks.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-08T11:59:19-08:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-23T22:29:39-08:00"
+      "last_modified": "2021-02-08T11:59:19-08:00"
     },
     {
       "path": "index.html",
       "title": "Kaili Brande",
-      "description": "Data Science Website\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-23T22:29:39-08:00"
-    },
-    {
-      "path": "kaili.html",
-      "title": "Kaili Brande",
-      "author": [],
-      "contents": "\r\n\r\n    \r\n    \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Kaili Brande\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            György Herzl is a filmmaker and computational storyteller based in Leipzig, Germany. Their work has been featured at the Festival do Rio, Internationale Filmfestspiele Berlin, Kunsthalle Basel, and the New Museum of Contemporary Art in New York City. “ГУМ” is their latest project which examines the rise of consumerism in post-Soviet republics.\r\n          \r\n          \r\n            \r\n                \r\n                  \r\n                    YouTube\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Vimeo\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n              \r\n                          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Kaili Brande\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            György Herzl is a filmmaker and computational storyteller based in Leipzig, Germany. Their work has been featured at the Festival do Rio, Internationale Filmfestspiele Berlin, Kunsthalle Basel, and the New Museum of Contemporary Art in New York City. “ГУМ” is their latest project which examines the rise of consumerism in post-Soviet republics.\r\n          \r\n        \r\n      \r\n      \r\n          \r\n              \r\n                                \r\n                    \r\n                    YouTube\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Vimeo\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Twitter\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Email\r\n                    \r\n                \r\n                              \r\n          \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2021-01-23T22:29:40-08:00"
+      "contents": "\r\n\r\n          \r\n      \r\n      Kaili\r\n      \r\n      \r\n      Home\r\n      About Me\r\n      Blog\r\n      ☰\r\n      \r\n      \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Kaili Brande\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            I am a second-year PhD student at the Bren School of Environmental Science and Management at the University of California, Santa Barbara. Currently, my research interests include oak ecology and demography; oak bark allometry and fire adaptive traits; and fire behavior in California foothill ecosystems. I have long been passionate about the conservation of natural places in California.\r\n          \r\n          \r\n            \r\n                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n              \r\n                          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Kaili Brande\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            I am a second-year PhD student at the Bren School of Environmental Science and Management at the University of California, Santa Barbara. Currently, my research interests include oak ecology and demography; oak bark allometry and fire adaptive traits; and fire behavior in California foothill ecosystems. I have long been passionate about the conservation of natural places in California.\r\n          \r\n        \r\n      \r\n      \r\n          \r\n              \r\n                                \r\n                    \r\n                    LinkedIn\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Twitter\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Email\r\n                    \r\n                \r\n                              \r\n          \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-02-08T11:59:20-08:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }

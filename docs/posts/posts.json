@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2021-02-08-welcome/",
+    "title": "Welcome",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Kaili Brande",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-08",
+    "categories": [],
+    "contents": "\r\nThis is the first post on this blog! Hooray!\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-02-08T11:56:00-08:00",
+    "input_file": {}
+  }
+]

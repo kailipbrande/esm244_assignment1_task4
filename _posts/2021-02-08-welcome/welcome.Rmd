@@ -1,0 +1,20 @@
+---
+title: "Welcome"
+description: |
+  A short description of the post.
+author:
+  - name: Kaili Brande
+date: 02-08-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This is the first post on this blog! Hooray!
+
+
