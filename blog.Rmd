@@ -1,4 +1,7 @@
 ---
 title: "Blog"  # any name you want here
 listing: posts # do this exactly
+output:
+  distill::distill_article:
+    self_contained: false
 ---

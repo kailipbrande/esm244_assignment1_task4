@@ -1,7 +1,7 @@
 ---
 title: "Kaili Brande"
 image: "DSC_0690.jpg"
-color1: "#5A59A3"
+color1: "#00264d"
 color2: "white"
 angle: 130
 links:
@@ -11,9 +11,9 @@ links:
     url: "https://twitter.com/kailibrande"
   - label: Email
     url: "mailto:kailipbrande@bren.ucsb.edu"
+site: distill::distill_website
 output:
   postcards::onofre
-site: distill::distill_website
 ---
  
 I am a second-year PhD student at the Bren School of Environmental Science and Management at the University of California, Santa Barbara. Currently, my research interests include oak ecology and demography; oak bark allometry and fire adaptive traits; and fire behavior in California foothill ecosystems. I have long been passionate about the conservation of natural places in California. 

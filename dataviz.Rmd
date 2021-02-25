@@ -1,0 +1,16 @@
+---
+title: "Data Visualization Examples"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(htmltools)
+
+htmltools::includeHTML("a3_task1_Brande_Kaili.html")
+
+```
