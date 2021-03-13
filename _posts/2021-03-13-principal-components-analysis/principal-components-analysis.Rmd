@@ -1,0 +1,28 @@
+---
+title: "Principal Components Analysis"
+description: |
+  An example of analyzing principal components, as learned in ESM244.
+author:
+  - name: Kaili Brande
+    url: {}
+date: 2021-03-13
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Below is the output of one of my assignments from ESM244. 
+
+```{r}
+
+library(htmltools)
+
+htmltools::includeHTML("a1_task2_Brande_Kaili.html")
+
+```
+

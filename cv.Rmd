@@ -11,4 +11,114 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Kaili Brande 
+##### (949) 887-4872 | kailipbrande@bren.ucsb.edu | Santa Barbara, CA
+
+### EDUCATION 
+#### PhD in Environmental Science and Management, 3.95 GPA (Expected June 2024)
+Bren School of Environmental Science & Management – University of California, Santa Barbara (UCSB)
+Highlighted Coursework: Forest Sustainability, Landscape Ecology, Environmental Modeling
+
+#### BS in Environmental Science and Management, 3.87 GPA (March 2016)
+University of California, Davis
+Emphasis: Ecology, Biodiversity, and Conservation	
+Study Abroad: UC Education Abroad Program, Lund University, Lund, Sweden (8/14–12/14)
+Highlighted Coursework: Conservation Biology, Nature and Culture, Writing in the Sciences
+
+### GRANTS AND SCHOLARSHIPS
+#### National Center for Airborne Laser Mapping (NCALM) and NSF Seed Grant (March 2020)
+#### La Kretz Graduate Student Fellowship, La Kretz Research Center, Sedgwick Reserve, UCSB (Fall 2019)
+#### Bren School Fellowship (Fall 2019)
+#### UC Davis Henry A. Jastro Scholarship, College of Ag. and Environmental Sciences (2012-2016)
+
+### TEACHING EXPERIENCE
+#### Teaching Assistant, Bren School of Environmental Science & Management, CA (January-March 2021)
+•	Graded assignments and assisted conceptual discussions in Landscape Ecology course for Master’s (MESM) and PhD students in the Bren School
+•	Aided students with exercises in Google Earth, ArcGIS, Fragstats, Circuitscape, and LANDIS-II programs
+
+### RESEARCH EXPERIENCE
+#### Graduate Student Researcher – La Kretz Research Center, Sedgwick Reserve, UCSB, CA (July-December 2020)
+•	Conducted research on oak demographic patterns in relation to climate change and drought, and bark thickness and allometry of three resident oak species
+•	Collected and analyzed fire behavior data of foothill grassland from Sedgwick Reserve’s first prescribed burn event (October 21, 2020). Assisted drone imagery data collection.
+
+#### Senior Honors Thesis, UC Davis, CA (Completed Spring 2016)
+Supervisor: Marcel Holyoak (Professor)
+•	Completed thesis titled “Threats to Survival and Recovery Strategies in Endangered Species Act Recovery Plans for California Birds and Mammals”. Conducted literature review and statistical analysis on the use of restoration as a conservation strategy, comparing listed threats and strategies. Evaluated across endangered and threatened species, birds and mammals, and multi- and single-species plans.
+
+#### Tree Swallow Research Assistant – Patricelli Lab, UC Davis, CA (March–June 2016)
+•	Supported research evaluating anthropogenic noise effects on Tree Swallows.
+•	Recorded data on nest development within nest boxes, measured nestlings and adults for body growth, took blood samples, cross-fostered eggs across nest boxes, set-up noise playback equipment.
+
+#### Tree Cores Research Assistant – John Muir Institute of the Environment, UC Davis, CA (January–April 2016)
+•	Supported research of climate change effects on competing pine species in the Great Basin, Nevada. 
+•	Mounted, scanned, and analyzed tree cores using dendrochronology software; measured seedlings in drought and common garden experiments at USDA Forest Institute of Genetics, Placerville, CA.
+
+#### Grasslands Restoration Research Assistant – Truman Young Lab, UC Davis, CA (January–March 2016)
+•	Assisted grasslands restoration project evaluating seed diversity in ‘control’ and restored areas of a Central Valley grassland. Sorted and weighed vegetation samples and identified seeds by species.
+
+#### Woodrat Research Assistant – John Muir Institute of the Environment, UC Davis, CA (June–September 2015)
+•	Supported research evaluating woodrat populations’ spatial ecology in response to environmental change at UC Quail Ridge Ecological Reserve. Set traps and captured woodrats to apply tags and radio collars; collected ear tissue samples; and changed equipment in stationary RFID readers.
+
+### WORK EXPERIENCE
+#### WaterWays Assistant – Putah Creek Council, Winters, CA (February-May 2019)
+•	Delivered WaterWays Environmental Education Program curriculum to elementary- and middle-school children in the classroom and during field trips.
+•	Organized field trip supplies, planned field trips, and developed in-class curriculum with the WaterWays team.
+
+#### Biologist – Analytical Environmental Services, Sacramento, CA (July 2017–August 2018)
+•	Prepared biological resource assessments, restoration monitoring reports, technical memoranda, CEQA documents (EIR, ISMND, etc.), and federal and state permit applications.
+•	Conducted biological surveys of clients' properties for special-status plant and animal species, wetlands and waters of the U.S., habitat designations, and other features; recorded GPS data.
+
+#### Ecological Restoration Intern – National Park Service (NPS), San Francisco, CA (January–July 2017)     	         
+•	Worked in a tri-agency partnership (NPS, Golden Gate National Parks Conservancy, Presidio Trust), assisting restoration volunteer programs, conducting rare plant monitoring, and weeding and planting at restoration sites. Completed Nesting Bird Survey training.
+
+#### Biological Science Technician (Botany) – National Park Service, Crater Lake, OR (June–September 2016)
+•	Surveyed for rare and invasive plant species; utilized Garmin GPS and Trimble Juno handheld unit to map invasive plant populations. Helped compile descriptive booklet of National Park invasive species, and aided wildlife crew with small mammal trapping and monitoring.
+
+#### Arboretum Ambassador Intern – UC Davis Arboretum, UC Davis, CA (September 2015–June 2016)
+•	Engaged local families and community members in environmental educational events through the UC Davis campus arboretum. Assisted staff with nursery plant sales and event organization.
+
+#### Research/Advocacy Intern – Orange County Coastkeepers, Costa Mesa, CA (June–July 2014)
+•	Collected and recorded scientific data for Marine Protected Area (MPA) Watch program. Researched local proposed desalination plant and local bay copper pollution for updating advocacy website.
+
+#### Preservation Advocate Intern – Environment California, Sacramento, CA (April–June 2014)
+•	Conducted research on endangered species, ecological threats, economic and recreational benefits, and legislative efforts involved with “Preservation Opportunity” locations across California.
+
+### HONORS AND AWARDS 
+#### UC Davis Departmental Citation, Dept. of Environmental Science and Policy (June 2016)
+#### UC Davis Outstanding Senior Award for major, College of Ag. and Environmental Sciences (Spring 2016)
+#### UC Davis Dean’s Honors List, College of Ag. and Env. Sciences (Fall 2014)
+#### UC Davis First Year Scholar and Dean’s List, College of Ag. and Environmental Sciences (Spring 2013)
+
+### PUBLICATIONS AND PRESENTATIONS
+#### Brande, K. (2017). Threats to Survival and Recovery Strategies in Endangered Species Act Recovery Plans for California Birds and Mammals. Explorations, Volume 19. <http://explorations.ucdavis.edu/2017/Kaili_Brande.html>
+
+#### Brande, K. (2016, June). Threats to Survival and Recovery Strategies in Endangered Species Act Recovery Plans for California Birds and Mammals. Poster session presented at UC Davis 27th Annual Undergraduate Research, Scholarship and Creative Activities Conference, Davis, CA.
+	                       	           
+### EXTRACURRICULAR ACTIVITIES 
+#### UCSB The Green Initiative Fund (TGIF) Committee (September 2020–June 2021)
+Served as the Bren School representative on a student majority governance board, helping to make funding allocation decisions for project proposals across campus that support the University’s sustainability iniatives.
+
+#### Bren PhD Student Symposium Committee (January–February 2020)
+Organized annual research symposium by scheduling student presenters, assembling prizes, hosting the event.
+
+#### Women in Science and Engineering Club, UC Santa Barbara (October 2019–present)
+#### Audubon Society, Goleta Coast Chapter, UC Santa Barbara (November 2019–present)
+
+#### Outreach Coordinator of the Environmental Club at UC Davis (September 2013–June 2014)
+Organized club social events and community service events, sent weekly emails to members, campus tabling.
+
+### SKILLS, AFFILIATIONS, AND INVOLVEMENT 
+Computer: R, ArcGIS, Microsoft Word
+
+Professional Associations: 
+Ecological Society of America (ESA) (joined August 2020)
+Phi Kappa Phi Honor Society (inducted May 2015)	
+
+Conferences Attended: 
+Ecological Society of America (ESA) Conference, August 3-6, 2020, virtual
+ESRI User Conference, July 13-16, 2020, virtual
+California Higher Education Sustainability Conference (CHESC), July 6-10, 2020, virtual
+9th International Oak Society Conference, October 21–24, 2018, Davis, CA
+
+
 

@@ -11,8 +11,6 @@ navbar:
       href: cv.html
     - text: "Research Interests"
       href: about.html
-    - text: "Data Visualization"
-      href: dataviz.html
     - text: "Blog"
       href: blog.html
 output: distill::distill_article
